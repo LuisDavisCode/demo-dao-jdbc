@@ -4,5 +4,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\java-libs\\jdbc-connectors\\mysql-connector-j-8.4.0.jar"
-    ]
+    ],
+    "java.settings.url": "C:\\java-libs\\vscode-java.prefs"
+
 }
